@@ -1,0 +1,14 @@
+D:\VisualProject\ReaderWin\bin\Debug\ReaderWin.exe.config
+D:\VisualProject\ReaderWin\bin\Debug\ReaderWin.exe
+D:\VisualProject\ReaderWin\bin\Debug\ReaderWin.pdb
+D:\VisualProject\ReaderWin\bin\Debug\NovelsParser.dll
+D:\VisualProject\ReaderWin\bin\Debug\Html2Article.dll
+D:\VisualProject\ReaderWin\bin\Debug\NovelsParser.pdb
+D:\VisualProject\ReaderWin\bin\Debug\NovelsParser.dll.config
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.csprojAssemblyReference.cache
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.Form1.resources
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.Properties.Resources.resources
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.csproj.GenerateResource.cache
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.csproj.CopyComplete
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.exe
+D:\VisualProject\ReaderWin\obj\Debug\ReaderWin.pdb
